@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=HyeBinLee&fontSize=90&animation=fadeIn)
 
 ### Hi there 👋   
- - :green_book:  **I majored in Statistics**
+ - :green_book:  **I am a 4th year student in the Department of Statistics at Cheongju University.**
 
- - 💻   **usually using Python language for programmming**    
+ - 💻   **usually using Python language for programmming**  
+
+ - :fire: **Interested in natural language processing** 
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
 
