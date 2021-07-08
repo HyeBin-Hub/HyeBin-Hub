@@ -13,3 +13,5 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896)](https://solved.ac/dlgpqls9896)
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<Naver>&color=<brightgreen>
