@@ -4,7 +4,7 @@
 
  - 💻   **usually using Python language for programmming**    
 
- - 🇰🇷  **I'm working in South Korea**
+ - :green_book:  **I majored in Economics**
 
 ### How to reach me? 🤔
 
