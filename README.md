@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=HyeBin Lee&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=HyeBinLee&fontSize=90&animation=fadeIn)
 ### Hi there 👋   
  - :green_book:  **I majored in Statistics**
 
