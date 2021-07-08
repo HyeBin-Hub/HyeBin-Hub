@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=HyeBinLee&fontSize=90&animation=fadeIn)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
 ### Hi there 👋   
  - :green_book:  **I majored in Statistics**
 
  - 💻   **usually using Python language for programmming**    
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
+
 ### How to reach me? 🤔
 
 - :e-mail:  **HyeBin Naver email ...** [![naver Badge](https://img.shields.io/badge/Naver-Green?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
