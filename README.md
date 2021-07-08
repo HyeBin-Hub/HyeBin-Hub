@@ -2,9 +2,7 @@
 
 ### Hi there 👋   
  - :green_book:  **I am a 4th year student in the Department of Statistics at Cheongju University.**
-
  - 💻   **usually using Python language for programmming**  
-
  - :fire: **Interested in natural language processing** 
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
