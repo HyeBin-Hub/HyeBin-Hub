@@ -7,7 +7,7 @@
 
 ### How to reach me? 🤔
 
-- :e-mail:  ** Hye Bin email ...** [![naver Badge](https://img.shields.io/badge/naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
+- :e-mail:  **HyeBin email ...** [![naver Badge](https://img.shields.io/badge/naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
 
 - 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
 
