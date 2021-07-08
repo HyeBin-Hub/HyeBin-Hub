@@ -2,7 +2,7 @@
 
 ### Hi there 👋   
 
- - 💻   **usually using Java language for programmming**    
+ - 💻   **usually using Python language for programmming**    
 
  - 🇰🇷  **I'm working in South Korea**
 
