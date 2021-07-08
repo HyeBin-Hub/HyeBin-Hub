@@ -11,7 +11,7 @@
 
 - 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
 
-<a href="연결할 링크" target="_blank"><img src="https://img.shields.io/badge/쓰고 싶은 텍스트-컬러 코드?style=flat-square&logo=브랜드 이름&logoColor=white"/></a>
+[![naver Badge](https://img.shields.io/badge/naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
 
 ### Contact me :iphone: 
 
