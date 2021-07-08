@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome to my github!&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome&to&my& github!&fontSize=90&animation=fadeIn)
 
 ### Hi there 👋   
  - :green_book:  **I am a 4th year student in the Department of Statistics at Cheongju University.**
