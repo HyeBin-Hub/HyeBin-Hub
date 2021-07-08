@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=state&fontSize=90&animation=fadeIn)
 
 ### Hi there 👋   
+ - :green_book:  **I majored in Statistics**
 
  - 💻   **usually using Python language for programmming**    
 
- - :green_book:  **I majored in Economics**
 
 ### How to reach me? 🤔
 
