@@ -3,7 +3,7 @@
 ### Hi there 👋   
  - :ghost:  **I am a 4th year student in the Department of Statistics at Cheongju University.**
  - 💻   **usually using Python language for programmming**  
- - :fire: **Interested in natural language processing** 
+ - :fire: **Interested in natural language processing, Deep Learning** 
  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
 
