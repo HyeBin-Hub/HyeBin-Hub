@@ -8,7 +8,7 @@
 
 ### How to reach me? 🤔
 
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:fomagran6@gmail.com)
+- :e-mail:  ** Hye Bin email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
 
 - 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
 
