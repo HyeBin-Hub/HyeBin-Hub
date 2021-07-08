@@ -9,7 +9,7 @@
 
 - :e-mail:  **HyeBin email ...** [![naver Badge](https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
 
-- 📒  **Fomagran's Instagram ...** [![Tech Blog Badge](http://img.shields.io/badge/-Instagram%20blog-black?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com//)](https://www.instagram.com//)
+- 📒  **Fomagran's Instagram ...** [![Tech Blog Badge](http://img.shields.io/badge/-Instagram%20blog-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/direct/)](https://www.instagram.com/direct/)
 
 
 
