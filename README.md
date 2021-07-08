@@ -2,7 +2,7 @@
 
 ### Hi there 👋   
 
- - 💻   **I'm a iOS Develover**    
+ - 💻   **usually using Java language for programmming**    
 
  - 🇰🇷  **I'm working in South Korea**
 
