@@ -13,7 +13,7 @@
 - 📒  **HyeBin Instagram ...** [![Tech Blog Badge](http://img.shields.io/badge/-Instagram%20blog-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896)](https://solved.ac/dlgpqls9896){: .center}
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896)](https://solved.ac/dlgpqls9896){: .right}
 
 
 
