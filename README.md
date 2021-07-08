@@ -2,7 +2,9 @@
 
 ### Hi there 👋   
  - :green_book:  **I majored in Statistics**
+ - 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
+
  - 💻   **usually using Python language for programmming**    
 
 
