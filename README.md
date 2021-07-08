@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=state&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=HyeBin Lee&fontSize=90&animation=fadeIn)
 ### Hi there 👋   
  - :green_book:  **I majored in Statistics**
 
@@ -9,7 +9,7 @@
 
 - :e-mail:  **HyeBin email ...** [![naver Badge](https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlgpqls98@naver.com)](mailto:dlgpqls98@naver.com)
 
-- 📒  **HyeBin Instagram ...** [![Tech Blog Badge](http://img.shields.io/badge/-Instagram%20blog-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/direct/)](https://www.instagram.com/direct/)
+- 📒  **HyeBin Instagram ...** [![Tech Blog Badge](http://img.shields.io/badge/-Instagram%20blog-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 
 
 
