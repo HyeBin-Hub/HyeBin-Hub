@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome_to_my_github!&fontSize=50&animation=fadeIn)
 
 ### Hi there 👋   
  - 💻   **usually using Python language for programmming**  
