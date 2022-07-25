@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome_to_my_github!&fontSize=50&animation=fadeIn)
 
 ### Hi there 👋   
- - :ghost:  **I am a 4th year student in the Department of Statistics at Cheongju University.**
  - 💻   **usually using Python language for programmming**  
  - :fire: **Interested in Computer Vision, Deep Learning** 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgpqls9896">
